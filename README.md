@@ -13,7 +13,8 @@
 ## 访问地址
 
 - 官方域名：www.dzmm.io
-- 备用域名：www.laopo.ai
+- 备用域名：电子魅魔.com
+- 备用域名：DisrespectfulZoosporiferousMumpedMyectomize.click
 - 永久地址：dzmm.github.io/dzmm-addr
 
 ## 使用说明
